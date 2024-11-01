@@ -13,6 +13,7 @@ I am currently studying in Scarlett Liu's CV-MLI group. My research interests in
 Education Experience
 ======
 M.S. in Changsha, Central South University,expect 2026
+
 B.S. in Chengdu, South West Jiaotong University,2023
 
 Publications
