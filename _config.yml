@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruixin Deng"
+title                    : "Ruixin Deng's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Ruixin Deng"
 description              : &description "personal description"
