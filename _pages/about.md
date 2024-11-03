@@ -26,3 +26,14 @@ Participate in a project or competition
 
 Honors & Awards
 ------
+· First Prize in National University Student Mathematics Competition
+
+· M Award in the American Collegiate Mathematical Modeling Contest
+
+· Third Prize of National University Student Mathematical Modeling Contest
+
+· Southwest Jiaotong University First Class Scholarship
+
+· Central South University ，First Class Scholarship
+
+· Three Good Students of Southwest Jiaotong University
