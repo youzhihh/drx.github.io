@@ -18,7 +18,7 @@ B.S. in Chengdu, South West Jiaotong University,2023
 
 Publications
 ======
-Zhang, Y., Luo, X., Wang, Z., Mai, Q., & Deng, R. (2022). Estimating charging demand from the perspective of choice behavior: A framework combining rule-based algorithm and hybrid choice model. Journal of Cleaner Production, 376, 134262.
+· Zhang, Y., Luo, X., Wang, Z., Mai, Q., & Deng, R. (2022). Estimating charging demand from the perspective of choice behavior: A framework combining rule-based algorithm and hybrid choice model. Journal of Cleaner Production, 376, 134262.
 
 Participate in a project or competition
 ------
