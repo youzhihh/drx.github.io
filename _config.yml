@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ruixin Deng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ruixin Deng"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://youzhihh.github.io/drx.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "youzhihh/drx.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -27,7 +27,7 @@ author:
   bio              : "Enjoy your life！"
   location         : "Changsha, China"
   employer         : "Central South University"
-  uri              : "https://youzhihh.github.io/drx.github.io/"
+  uri              : #"https://youzhihh.github.io/drx.github.io/"
   email            : "ruixin.deng@csu.edu.cn" 
 
   # Academic websites
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "https://github.com/youzhihh"
+  kaggle           : "https://www.kaggle.com/youzhihh"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
