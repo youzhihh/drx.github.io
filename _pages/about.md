@@ -34,6 +34,6 @@ Honors & Awards
 ------
 · Southwest Jiaotong University First Class Scholarship
 
-· Central South University ，First Class Scholarship
+· Central South University First Class Scholarship
 
 · Three Good Students of Southwest Jiaotong University
