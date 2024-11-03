@@ -18,13 +18,9 @@ B.S. in Chengdu, South West Jiaotong University,2023
 
 Publications
 ======
-
+Zhang, Y., Luo, X., Wang, Z., Mai, Q., & Deng, R. (2022). Estimating charging demand from the perspective of choice behavior: A framework combining rule-based algorithm and hybrid choice model. Journal of Cleaner Production, 376, 134262.
 
 Participate in a project or competition
-------
-
-
-Honors & Awards
 ------
 · First Prize in National University Student Mathematics Competition
 
@@ -32,6 +28,10 @@ Honors & Awards
 
 · Third Prize of National University Student Mathematical Modeling Contest
 
+· Third Prize of Southwest Jiaotong University Transportation Science and Technology Competition
+
+Honors & Awards
+------
 · Southwest Jiaotong University First Class Scholarship
 
 · Central South University ，First Class Scholarship
